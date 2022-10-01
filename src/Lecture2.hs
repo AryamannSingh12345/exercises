@@ -290,3 +290,4 @@ Folding" optimization on the given expression.
 constantFolding :: Expr -> Expr
 constantFolding = error "TODO"
 
+
