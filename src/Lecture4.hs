@@ -370,3 +370,4 @@ of room for optimization! But at least you've managed to implement a
 streaming solution using only basic Haskell 🤗
 
 -}
+
